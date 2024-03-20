@@ -17,4 +17,10 @@ public class Main {
 		c = a + b;
 		return c;
 		}
+	
+	public static int resta(int a, int b) {
+		int c;
+		c = a - b;
+		return c;
+		}
 }
