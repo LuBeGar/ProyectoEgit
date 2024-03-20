@@ -10,4 +10,10 @@ public class Main {
 		System.out.print("Introduce segundo número: ");
 		numero2 = sc.nextInt();
 	}
+	public static int producto(int a, int b) {
+		int c;
+		c = a * b;
+		return c;
+		}
+
 }
